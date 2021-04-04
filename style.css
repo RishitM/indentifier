@@ -32,3 +32,6 @@ border-radius: 20px;
     background-color: violet;
     color: white;
 }
+#object,#accuracy{
+    font-size: 15px;
+}
